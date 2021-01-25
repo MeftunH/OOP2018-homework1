@@ -1,0 +1,8 @@
+98589765332 Mehmet Yilmaz 35 9 Evli E 3 2000 2500 115 30 20 5305 c:\\molner\\photo.jpg
+98934930210 Akif Degirmenci 28 4 Evli H 2 2000 1500 65 8 20 3985 c:\\molner\\photo.jpg
+98332912003 Leyla Bostanci 29 2 Evli E 1 2000 1000 65 12 20 3365 c:\\molner\\photo.jpg
+98921201029 Servet Cetin 33 8 Evli E 2 2000 2500 115 25 20 5125 c:\\molner\\photo.jpg
+98212990044 Adile Refik 24 1 Evli H 0 2000 1000 65 10 20 3265 C:\Users\Molner\Pictures\2012-12\IMG_3025.JPG
+98558458488 Sevda Er 30 6 Evli E 1 2000 2000 115 19 20 4555 c:\\molner\\photo.jpg
+                                    
+                                  
